@@ -1,14 +1,13 @@
 ### Hi there 👋, my name is Yousef
 
 #### Back-end web development
-I'm Yousef from Egypt, and I do Back-end web Development. I really enjoy learning languages and frameworks like Django and flask, as well as web Scraping using Scrapy framework.
+I'm Yousef from Egypt, I am a Software Engineer with 2+ experience in different technologies and a strong  background in web development & software engineering. Possessing exceptional problem-solving & communication skills, adept at developing high-quality software projects. Experienced in object-oriented programming and languages such as Python, JavaScript, and c#. Expertise in developing database systems and using SQL to query data & system design as well.  
 
-Skills: Python / Django / Pandas / JS / HTML / CSS / 
+Skills: Python / JS / C# / HTML / CSS / Django / Docker / Docker-Compose / MySQL / PostgreSQL / Unit Testing / React.js / Typescript / Next.js
 
 #### About ME:
-
-- 🌱 I’m currently learning Data science and Machine Learning 
-- 💬 Ask me about Python, Django, Scrapy frame work 
+ 
+- 💬 Ask me about Python, Javascript, C#.  
 - 📫 How to reach me: yousifshalby2016@gmail.com 
 - ⚡ Fun fact:  I love to read books with coffee  
 
